@@ -1,0 +1,232 @@
+C:\Users\Resad\source\repos\Bib\Bib\obj\Debug\Bib.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\Bib\Bib\bin\Bib.dll.config
+C:\Users\Resad\source\repos\Bib\Bib\bin\Bib.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\Bib.pdb
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\csc.exe
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\csc.exe.config
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\csc.rsp
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\csi.exe
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\csi.exe.config
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\csi.rsp
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.AppContext.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Console.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.IO.Compression.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.Claims.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.ValueTuple.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\vbc.exe
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\vbc.exe.config
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\vbc.rsp
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\VBCSCompiler.exe
+C:\Users\Resad\source\repos\Bib\Bib\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Resad\source\repos\Bib\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Resad\source\repos\Bib\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Resad\source\repos\Bib\Bib\obj\Debug\Bib.csproj.CopyComplete
+C:\Users\Resad\source\repos\Bib\Bib\obj\Debug\Bib.dll
+C:\Users\Resad\source\repos\Bib\Bib\obj\Debug\Bib.pdb
+C:\Users\Resad\source\repos\Bib\Bib\obj\Debug\Bib.csprojResolveAssemblyReference.cache
+C:\Users\Resad\source\repos\Bib test\Bib\bin\Bib.dll.config
+C:\Users\Resad\source\repos\Bib test\Bib\bin\Bib.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\Bib.pdb
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\csc.exe
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\csc.exe.config
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\csc.rsp
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\csi.exe
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\csi.exe.config
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\csi.rsp
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.AppContext.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Console.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.IO.Compression.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.Claims.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.ValueTuple.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\vbc.exe
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\vbc.exe.config
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\vbc.rsp
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\VBCSCompiler.exe
+C:\Users\Resad\source\repos\Bib test\Bib\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Resad\source\repos\Bib test\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Resad\source\repos\Bib test\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Resad\source\repos\Bib test\Bib\obj\Debug\Bib.csprojResolveAssemblyReference.cache
+C:\Users\Resad\source\repos\Bib test\Bib\obj\Debug\Bib.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\Bib test\Bib\obj\Debug\Bib.csproj.CopyComplete
+C:\Users\Resad\source\repos\Bib test\Bib\obj\Debug\Bib.dll
+C:\Users\Resad\source\repos\Bib test\Bib\obj\Debug\Bib.pdb
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.IO.Compression.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\VBCSCompiler.exe
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\Bib.dll.config
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\Bib.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\Bib.pdb
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\csc.exe
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\csc.exe.config
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\csc.rsp
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\csi.exe
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\csi.exe.config
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\csi.rsp
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.AppContext.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Console.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.Claims.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.ValueTuple.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\vbc.exe
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\vbc.exe.config
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\vbc.rsp
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Resad\source\repos\BibTest2\Bib\obj\Debug\Bib.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\BibTest2\Bib\obj\Debug\Bib.csproj.CopyComplete
+C:\Users\Resad\source\repos\BibTest2\Bib\obj\Debug\Bib.dll
+C:\Users\Resad\source\repos\BibTest2\Bib\obj\Debug\Bib.pdb
+C:\Users\Resad\source\repos\BibTest2\Bib\obj\Debug\Bib.csprojAssemblyReference.cache
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\Bib.dll.config
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\Bib.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\Bib.pdb
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\csc.exe
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\csc.exe.config
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\csc.rsp
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\csi.exe
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\csi.exe.config
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\csi.rsp
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.AppContext.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Console.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.IO.Compression.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.Claims.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.ValueTuple.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\vbc.exe
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\vbc.exe.config
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\vbc.rsp
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\VBCSCompiler.exe
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Resad\source\repos\Bibliography\Bib\obj\Debug\Bib.csprojAssemblyReference.cache
+C:\Users\Resad\source\repos\Bibliography\Bib\obj\Debug\Bib.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\Bibliography\Bib\obj\Debug\Bib.csproj.CopyComplete
+C:\Users\Resad\source\repos\Bibliography\Bib\obj\Debug\Bib.dll
+C:\Users\Resad\source\repos\Bibliography\Bib\obj\Debug\Bib.pdb

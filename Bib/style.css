@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #F4F5C8;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#lbl_test3 {
+    text-overflow: ellipsis;
+}
+#results{
+    display:none;
+}
+h1 {
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    color: #450D08;
+}
+#btn1 {
+    color: black;
+    background-color: #F0362A;
+    font-weight: bold;
+}
+#img1 {
+  display:block;
+  margin-right:auto;
+    margin-left:auto ;
+    Height:111px;
+    Width:136px;
+}
